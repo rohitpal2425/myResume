@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#name {
+    text-align: center;
+}
+
+.profile p {
+    line-height: 1.5;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.education p {
+    margin-left: 20px;
+}
+
+h2 {
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #666;
+}
