@@ -36,3 +36,27 @@ h2 {
 p {
     color: #666;
 }
+.section #PL{
+    margin-left: 50px;
+    color: #666;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #0a0707;
+    padding: 10px;
+}
+
+.footer div {
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    color: #b1aaaa;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #b1aaaa;
+    margin-left: 5px;
+}
+
